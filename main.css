@@ -1,0 +1,49 @@
+.card-body{
+    text-align: center;
+    background-color: rgba(13, 201, 60, 0.747); 
+}
+
+.display-4{
+  color: grey;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: rgba(13, 201, 60, 0.747);
+}
+.lead{
+    color: aliceblue;
+}
+
+.my-4{
+    color: aliceblue;
+}
+
+.always{
+    color: aliceblue;
+}
+.pic1_text{
+  text-align: center;
+}
+
+.pic2_text{
+    text-align: center;
+  }
+
+.pic3_text{
+    text-align: center;
+}
+.description{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 140px;
+}
+
+.card-text{
+  color: white;
+}
+.owner-name{
+    margin-left: 530px;
+    color: gray;
+}
